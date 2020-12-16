@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    initArr();
+    function initArr() {
+        let arr = [];
+        let i = 0;
+        while (i < 10) {
+            let a = Math.floor(Math.random() * 10);
+            arr.push(a);
+            i++;
+        }
+        return arr;
+    }
+    deleteNum5();
+    function deleteNum5() {
+        let arr1 = [5,5,5,5,6,6,6,6,6];
+        document.write(arr1);
+        for (let i = 0; i < arr1.length; i++) {
+            for (let j = 0; j < arr1.length; j++) {
+                if (arr1[i] === 5) {
+                    arr1.splice(i,1);
+                }
+            }
+        }
+        console.log(arr1);
+    }
+</script>
+</body>
+</html>

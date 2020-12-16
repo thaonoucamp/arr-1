@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a35a2c92-fae2-41f5-a3eb-3dd8c3bb920b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arr-demo/bai-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arr-demo/bai-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arr-demo/bai-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arr-demo/bai-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arr-demo/bai-5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bang-cuu-chuong/bang-cuu-chuong.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../good-cheap-fast/good-cheap-fast.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../loop-1.2/1-100.html" afterDir="false" />
@@ -53,6 +62,9 @@
       <change beforePath="$PROJECT_DIR$/../addProduct/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addProduct/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addProduct/editProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/editProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai-/bai-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai-/bai-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai-/bai-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-3.html" afterDir="false" />
@@ -109,7 +121,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lgdcjC2GXhKCg3bbFnt627wHvG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -121,7 +133,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arr-demo/bai-6.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -134,10 +146,18 @@
       <option name="presentableId" value="Default" />
       <updated>1608022749615</updated>
       <workItem from="1608022750720" duration="8388000" />
+      <workItem from="1608087623729" duration="297000" />
+      <workItem from="1608103256856" duration="6360000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608108425276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608108425276" />
   </component>
 </project>

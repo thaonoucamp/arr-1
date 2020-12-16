@@ -11,22 +11,25 @@
         let arr = [];
         let i = 0;
         while (i < 10) {
-            let a = Math.floor(Math.random() * 20);
+            let a = Math.floor(Math.random() * 10);
             arr.push(a);
             i++;
         }
         return arr;
     }
-    reverse();
-    function reverse() {
+    findNum5();
+    function findNum5() {
         let arr1 = initArr();
         document.write(arr1);
-        let arr2 = [];
-        for (let i = arr1.length-1; i >= 0; i--) {
-            arr2.push(arr1[i]);
-        }
-        console.log(arr2);
+        for (let i = 0; i < arr1.length; i++) {
+            if (arr1[i] === 5) {
+                alert("5 ton tai trong mang tai vi tri thu : " + i);
+            // }else {
+            //     alert("5 khong ton tai trong mang");
+            }
+            }
     }
 </script>
+
 </body>
 </html>

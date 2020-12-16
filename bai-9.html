@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function initArr() {
+        let arr = [];
+        let count = 0;
+        while (count < 10) {
+            let ai = Math.floor(Math.random() * 20);
+            arr.push(ai);
+            count++;
+        }
+        return arr;
+    }  function initArr1() {
+        let arr1 = [];
+        let count = 0;
+        while (count < 10) {
+            let ai = Math.floor(Math.random() * 20);
+            arr1.push(ai);
+            count++;
+        }
+        return arr1;
+    }
+    concatArr();
+    function concatArr() {
+        let arr = initArr();
+        document.write(arr + '<br>');
+        let arr1 = initArr1();
+        document.write(arr1);
+        let arr2 = [];
+        arr2 = arr2.concat(arr,arr1);
+        console.log(arr2.length);
+    }
+</script>
+</body>
+</html>
